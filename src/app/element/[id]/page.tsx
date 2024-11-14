@@ -25,6 +25,7 @@ const ElementPage = () => {
     <div>
       <h1>Element ID: {id}</h1>
       <p>Item Name: {name}</p>
+      
     </div>
   );
 };
