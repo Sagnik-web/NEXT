@@ -1,12 +1,12 @@
 import React from 'react'
 
-async function page({params}:{params:any}) {
+async function page() {
 
-    const {id} = await params
+    // const {id} = await params
 
   return (
     <div>
-      Blog {id}
+      Blog 
     </div>
   )
 }

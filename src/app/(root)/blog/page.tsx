@@ -13,7 +13,6 @@ function BlogPage() {
     })
     .catch(err=>{
       console.log("Error ",err);
-      
     })
   },[])
 
