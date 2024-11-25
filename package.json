@@ -15,8 +15,11 @@
     "bcryptjs": "^2.4.3",
     "mongoose": "^8.8.2",
     "next": "15.0.3",
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react": "^19.0.0-rc-66855b96-20241106",
+    "react-dom": "^19.0.0-rc-66855b96-20241106",
+    "react-spreadsheet": "^0.9.5",
+    "scheduler": "^0.23.2",
+    "xlsx": "^0.18.5",
     "zod": "^3.23.8"
   },
   "devDependencies": {
